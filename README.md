@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - Currently working as a `Water Resources Engineer` at [DF+ Engenharia Geotécnica e Recursos Hídricos](https://dfmais.eng.br/);
 - I am a 1rst year `Masters Student` at the [Universidade Federal de Minas Gerais](https://ufmg.br/);
 - Graduated as a Civil Engineer BsC from [Universidade Federal de Minas Gerais](https://ufmg.br/);
-- You can check out my personal website [here](https://github.com/ai-se/andre-lustosa)
+- You can check out my personal website [here](https://google.com).
 
 
 <br>
@@ -54,11 +54,13 @@ Here are some ideas to get you started:
 <br>
 
 
+## My CV
+
+<br>
+
 ## Connect with me!
 
 <br>
 
-![Discord](https://dcbadge.vercel.app/api/shield/246021971618430978?compact=true)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre_powerlifting/)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-motta/)
-[![](https://img.shields.io/badge/-Website-yellow?style=for-the-badge&logo=googlechrome)](https://alustos.us)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-l-andrade/)
+[![](https://img.shields.io/badge/-Website-yellow?style=for-the-badge&logo=googlechrome)](https://google.com)
