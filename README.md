@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## About me
+
 <br>
+
 - [Oceansoft](https://github.com/ocean-soft)`s CEO;
 - Currently working as a `Water Resources Engineer` at [DF+ Engenharia Geotécnica e Recursos Hídricos](https://dfmais.eng.br/);
 - `Masters Student` at the [Universidade Federal de Minas Gerais](https://ufmg.br/);
@@ -25,8 +27,11 @@ Here are some ideas to get you started:
 
 
 <br>
+
 ## Software Engineering / Main Languages and Frameworks
+
 <br>
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,18 +44,29 @@ Here are some ideas to get you started:
 
 
 <br>
+
 ## Github Stats
+
 <br>
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pedro-lage&show_icons=true&count_private=true&theme=tokyonight)
 
 
+<br>
+
 ## My CV
+
+<br>
+
 - [Portugese](https://www.overleaf.com/read/wsgjpgskbxqd)
 - Feel free to ask me for an updated english version!
-<br>
 
+
+<br>
 
 ## Connect with me!
+
 <br>
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-l-andrade/)
 [![](https://img.shields.io/badge/-Website-yellow?style=for-the-badge&logo=googlechrome)](https://google.com)
