@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 <br>
 
-- [Portugese](https://www.overleaf.com/read/wsgjpgskbxqd)
+- [Portugese](https://www.overleaf.com/read/wsgjpgskbxqd) LaTeX
 - Feel free to ask me for an updated english version!
 
 
