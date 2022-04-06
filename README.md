@@ -1,4 +1,4 @@
-<h1 align="left">Hi therem I'm Pedro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left">Hi there I'm Pedro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--
 **pedro-lage/pedro-lage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
