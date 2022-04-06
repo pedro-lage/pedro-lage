@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 
 <br>
 
-- [Portugese](https://www.overleaf.com/read/wsgjpgskbxqd) LaTeX
-- Feel free to ask me for an updated english version!
+- [Portugese](https://github.com/pedro-lage/pedro-lage/blob/main/CV_Full.pdf) Last updated 06 Apr 2022
+- Feel free to ask me for an updated version in portugese or english!
 
 
 <br>
