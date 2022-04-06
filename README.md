@@ -55,7 +55,8 @@ Here are some ideas to get you started:
 
 
 ## My CV
-
+![pt-br](https://www.overleaf.com/read/wsgjpgskbxqd)
+Feel free to ask me for an updated english version!
 <br>
 
 ## Connect with me!
