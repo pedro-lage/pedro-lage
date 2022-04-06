@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <br>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=andre-motta&show_icons=true&count_private=true&theme=tokyonight)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pedro-lage&show_icons=true&count_private=true&theme=tokyonight)
 
 ## Software Engineering / Main Languages and Frameworks
 
