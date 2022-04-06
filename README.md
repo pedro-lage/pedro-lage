@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 <br>
 
-- [Portugese](https://github.com/pedro-lage/pedro-lage/blob/main/CV_Full.pdf) Last updated 06 Apr 2022
+- [Portugese](https://github.com/pedro-lage/pedro-lage/blob/main/CV_Full.pdf). Last updated 06 Apr 2022
 - Feel free to ask me for an updated version in portugese or english!
 
 
