@@ -69,4 +69,4 @@ Here are some ideas to get you started:
 <br>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-l-andrade/)
-[![](https://img.shields.io/badge/-Website-yellow?style=for-the-badge&logo=googlechrome)](https://google.com)
+[![](https://img.shields.io/badge/-Website-yellow?style=for-the-badge&logo=link)](https://google.com)
