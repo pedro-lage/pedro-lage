@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - [Oceansoft](https://github.com/ocean-soft)`s CEO;
 - Currently working as a `Water Resources Engineer` at [DF+ Engenharia Geotécnica e Recursos Hídricos](https://dfmais.eng.br/);
-- `Masters Student` at the [Universidade Federal de Minas Gerais](https://ufmg.br/);
+- `Masters Student` at the [Universidade Federal de Minas Gerais](https://ufmg.br/). My ongoing research is available [here](https://github.com/pedro-lage/brazil-pmp);
 - Graduated as a `Civil Engineer` BsC from [Universidade Federal de Minas Gerais](https://ufmg.br/);
-- You can check out my personal website [here](https://google.com).
+- You can check out my personal website here.
 
 
 <br>
