@@ -61,6 +61,8 @@ Here are some ideas to get you started:
 - [Portugese](https://github.com/pedro-lage/pedro-lage/blob/main/CV_Full.pdf). Last updated 06 Apr 2022
 - Feel free to ask me for an updated version in portugese or english!
 
+- You can also view my Lattes [here](http://lattes.cnpq.br/6657440540676305)
+
 
 <br>
 
