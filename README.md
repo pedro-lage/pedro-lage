@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Currently working as a `Water Resources Engineer` at [DF+ Engenharia Geotécnica e Recursos Hídricos](https://dfmais.eng.br/);
 - `Masters Student` at the [Universidade Federal de Minas Gerais](https://ufmg.br/). My ongoing research is available [here](https://github.com/pedro-lage/brazil-pmp);
 - Graduated as a `Civil Engineer` BsC from [Universidade Federal de Minas Gerais](https://ufmg.br/);
-- You can check out my personal website here.
+- You can check out my portfolio [here](https://pedro-lage.github.io/).
 
 
 <br>
