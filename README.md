@@ -1,74 +1,62 @@
-<h1 align="left">Hi there! I'm Pedro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left">Hi there! I'm Pedro Andrade <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**pedro-lage/pedro-lage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Civil Engineer | M.Sc. Water Resources | Full Stack Developer
 
-Here are some ideas to get you started:
+I sit at the intersection of **Civil Engineering** and **Software Development**. With a Master's degree in Water Resources and over 6 years of experience leading software projects, I specialize in building critical systems for hydrology, risk management, and engineering innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am the **Business Partner for Innovation & Digital Solutions** at [DF+ Engenharia](https://dfmais.eng.br/), bridging the gap between complex engineering needs and high-performance code.
 
-## About me
+---
 
+### 🚀 About Me
+
+- 💼 **Current Role:** Digital Innovation & Software Development for Mining/Infrastructure sectors.
+- 🎓 **Education:** M.Sc. in Water Resources Engineering (UFMG) - *Focus on Statistical Hydrology & Extreme Events*.
+- 🛠 **Background:** Ex-CEO/Founder of **Oceansoft** (Software House) & Ex-Army Officer (CPOR).
+- 🔭 **Focus:** Scientific Computing, Spatial Data Analysis, Flood Warning Systems, and Cross-platform Mobile Apps.
+- 🌐 **Portfolio:** Check out my projects [here](https://pedro-lage.github.io/).
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages**
 <br>
-
-- [Oceansoft](https://github.com/ocean-soft)`s CEO;
-- Currently working as a `Water Resources Engineer` at [DF+ Engenharia Geotécnica e Recursos Hídricos](https://dfmais.eng.br/);
-- `Masters Student` at the [Universidade Federal de Minas Gerais](https://ufmg.br/). My ongoing research is available [here](https://github.com/pedro-lage/brazil-pmp);
-- Graduated as a `Civil Engineer` BsC from [Universidade Federal de Minas Gerais](https://ufmg.br/);
-- You can check out my portfolio [here](https://pedro-lage.github.io/).
-
-
-<br>
-
-## Main Languages and Frameworks
-
-<br>
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+**Data Science & Visualization (My Niche)**
+<br>
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Web & Mobile Development**
+<br>
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+---
 
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedro-lage&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Pedro's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-lage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect & More
+
+- 📄 **Academic Research:** View my Master's research on [Probability & Precipitation](https://www.smarh.eng.ufmg.br/diss_defesas_listagem.php) or my [Lattes CV](http://lattes.cnpq.br/6657440540676305).
+- 👔 **LinkedIn:** Let's connect!
 <br>
-
-## Github Stats
-
-<br>
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=pedro-lage&show_icons=true&count_private=true&theme=tokyonight)
-
-
-<br>
-
-## My CV
-
-<br>
-
-- [Portugese](https://github.com/pedro-lage/pedro-lage/blob/main/CV_Full.pdf). Last updated 06 Apr 2022
-- Feel free to ask me for an updated version in portugese or english!
-
-- You can also view my Lattes [here](http://lattes.cnpq.br/6657440540676305)
-
-
-<br>
-
-## Connect with me!
-
-<br>
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-l-andrade/)
-[![](https://img.shields.io/badge/-Website-yellow?style=for-the-badge&logo=link)](https://google.com)
+<a href="https://www.linkedin.com/in/pedro-l-andrade/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
