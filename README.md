@@ -10,7 +10,8 @@ Currently, I am the **Business Partner for Innovation & Digital Solutions** at [
 
 ### 🚀 About Me
 
-- 💼 **Current Role:** Digital Innovation & Software Development for Mining/Infrastructure sectors.
+- 💼 **Current Role:** Leading Digital Innovation & Software Development for Mining/Infrastructure sectors.
+- 🏢 **Professional GitHub:** Most of my daily commercial commits are at [**@pandrade-dfmais**](https://github.com/pandrade-dfmais).
 - 🎓 **Education:** M.Sc. in Water Resources Engineering (UFMG) - *Focus on Statistical Hydrology & Extreme Events*.
 - 🛠 **Background:** Ex-CEO/Founder of **Oceansoft** (Software House) & Ex-Army Officer (CPOR).
 - 🔭 **Focus:** Scientific Computing, Spatial Data Analysis, Flood Warning Systems, and Cross-platform Mobile Apps.
@@ -45,18 +46,30 @@ Currently, I am the **Business Partner for Innovation & Digital Solutions** at [
 
 ### 📊 GitHub Stats
 
+**Personal Profile (Research & Open Source)**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedro-lage&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Pedro's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-lage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedro-lage&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Pedro's Personal Stats" />
+</p>
+
+**Professional Profile (DF+ Engenharia)**
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pandrade-dfmais&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Pedro's Professional Stats" />
 </p>
 
 ---
 
 ### 📫 Connect & More
 
-- 📄 **Academic Research:** View my Master's research on [Probability & Precipitation](https://www.smarh.eng.ufmg.br/diss_defesas_listagem.php) or my [Lattes CV](http://lattes.cnpq.br/6657440540676305).
-- 👔 **LinkedIn:** Let's connect!
+- 👔 **LinkedIn:**
 <br>
 <a href="https://www.linkedin.com/in/pedro-l-andrade/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
+- 🏢 **DF+ GitHub (Professional):**
+<br>
+<a href="https://github.com/pandrade-dfmais">
+  <img src="https://img.shields.io/badge/GitHub_Professional-181717?style=for-the-badge&logo=github&logoColor=white" alt="DF+ GitHub">
+</a>
+
+- 📄 **Academic Research:** View my Master's research on [Probability & Precipitation](https://www.smarh.eng.ufmg.br/diss_defesas_listagem.php) or my [Lattes CV](http://lattes.cnpq.br/6657440540676305).
