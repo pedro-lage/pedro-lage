@@ -61,15 +61,16 @@ Currently, I am the **Business Partner for Innovation & Digital Solutions** at [
 ### 📫 Connect & More
 
 - 👔 **LinkedIn:**
-<br>
 <a href="https://www.linkedin.com/in/pedro-l-andrade/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <br>
+
+
 - 🏢 **DF+ GitHub (Professional):**
-<br>
 <a href="https://github.com/pandrade-dfmais">
   <img src="https://img.shields.io/badge/GitHub_Professional-181717?style=for-the-badge&logo=github&logoColor=white" alt="DF+ GitHub">
 </a>
 <br>
+
 - 📄 **Academic Research:** View my Master's research on [Probability & Precipitation](https://www.smarh.eng.ufmg.br/diss_defesas_listagem.php) or my [Lattes CV](http://lattes.cnpq.br/6657440540676305).
